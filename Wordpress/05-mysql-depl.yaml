@@ -21,10 +21,6 @@ spec:
           imagePullPolicy: IfNotPresent      
           ports:
             - containerPort: 3306
-          resources:
-            limits:
-              memory: '1Gi'
-              cpu: '1'
           volumeMounts:
             - name: demo-mysql-init
               mountPath: /docker-entrypoint-initdb.d
