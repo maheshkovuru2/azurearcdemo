@@ -65,3 +65,10 @@ EOF**
 
 NOTE: You can also create a bash script with the above scripts and run it after the cluster is created in GCP/Azure/AWS.
 
+
+
+Troubleshooting Links:
+
+https://cloud.google.com/compute/docs/regions-zones
+
+https://stackoverflow.com/questions/74836213/error-403-insufficient-regional-quota-to-satisfy-request-resource-ssd-total
