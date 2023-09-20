@@ -21,10 +21,6 @@ spec:
           imagePullPolicy: IfNotPresent          
           ports:
             - containerPort: 80
-          resources:
-            limits:
-              memory: '1Gi'
-              cpu: '1'
           volumeMounts:
             - name: wordpress-data
               mountPath: /var/www/html/wp-content
