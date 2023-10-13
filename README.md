@@ -3,6 +3,26 @@ Azure ARC Demo
 
 **Installing Kubernetes on GCP:**
 
+![image](https://github.com/maheshkovuru2/azurearcdemo/assets/145518364/65e0dbcc-ca42-45a0-a7b5-61d93a9f2c17)
+
+![image](https://github.com/maheshkovuru2/azurearcdemo/assets/145518364/96610e7a-f500-4a59-88f2-b3691921d58c)
+
+![image](https://github.com/maheshkovuru2/azurearcdemo/assets/145518364/a9339140-96c8-438d-bfc5-8dcae01e4a07)
+
+![image](https://github.com/maheshkovuru2/azurearcdemo/assets/145518364/f61c82a8-3b65-40bc-a992-de6c0342bbda)
+
+![image](https://github.com/maheshkovuru2/azurearcdemo/assets/145518364/c539a177-f844-4b5d-9e00-cb57f0033f7b)
+
+![image](https://github.com/maheshkovuru2/azurearcdemo/assets/145518364/735f83cc-dc4d-4a3f-9549-87bd99efbed7)
+
+![image](https://github.com/maheshkovuru2/azurearcdemo/assets/145518364/52e5529c-9860-440d-9de5-56ea714e6906)
+
+![image](https://github.com/maheshkovuru2/azurearcdemo/assets/145518364/875d05b5-e6f0-4d3f-b6a4-507da16d4736)
+
+![image](https://github.com/maheshkovuru2/azurearcdemo/assets/145518364/728e5cfe-87b4-447a-a8fb-cad887b7f588)
+
+![image](https://github.com/maheshkovuru2/azurearcdemo/assets/145518364/c7c64421-c40d-45b3-907a-b66365790e49)
+
 ![image](https://github.com/maheshkovuru2/azurearcdemo/assets/145518364/31d6150a-ae2a-409f-aac4-58d8ac462fe4)
 
 ![image](https://github.com/maheshkovuru2/azurearcdemo/assets/145518364/f4e4730a-f9be-47e8-869c-39b7b0664811)
