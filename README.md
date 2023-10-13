@@ -3,6 +3,10 @@ Azure ARC Demo
 
 **Installing Kubernetes on GCP:**
 
+![image](https://github.com/maheshkovuru2/azurearcdemo/assets/145518364/31d6150a-ae2a-409f-aac4-58d8ac462fe4)
+
+![image](https://github.com/maheshkovuru2/azurearcdemo/assets/145518364/f4e4730a-f9be-47e8-869c-39b7b0664811)
+
 ![image](https://github.com/maheshkovuru2/azurearcdemo/assets/145518364/05d4b4e7-f7a0-450e-af24-49f946f8257e)
 
 ![image](https://github.com/maheshkovuru2/azurearcdemo/assets/145518364/a4a7761d-764c-454a-805c-51986365bafc)
