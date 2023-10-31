@@ -162,6 +162,12 @@ https://stackoverflow.com/questions/74836213/error-403-insufficient-regional-quo
 
 ![10](https://github.com/maheshkovuru2/azurearcdemo/assets/145518364/33c764cc-458f-4114-a0d9-8d84521324dc)
 
+![11](https://github.com/maheshkovuru2/azurearcdemo/assets/145518364/8db76505-782d-4950-ac11-4daa2152b870)
+
+![12](https://github.com/maheshkovuru2/azurearcdemo/assets/145518364/27ff3e64-9711-4aeb-82cb-aa0309420e21)
+
+
+
 
 
 
